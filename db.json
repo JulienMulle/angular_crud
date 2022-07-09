@@ -1,6 +1,14 @@
 {
   "productList": [
-
+    {
+      "name": "montre",
+      "category": "Divers",
+      "freshness": "Brand New",
+      "price": 100,
+      "comment": "nouvelle montre connecté",
+      "date": "2022-07-26T22:00:00.000Z",
+      "id": 1
+    }
   ],
   "comments": [
     {
