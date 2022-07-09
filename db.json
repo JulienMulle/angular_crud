@@ -8,6 +8,42 @@
       "comment": "nouvelle montre connecté",
       "date": "2022-07-26T22:00:00.000Z",
       "id": 1
+    },
+    {
+      "name": "dfqsfd",
+      "category": "Legumes",
+      "freshness": "Brand New",
+      "price": 900,
+      "comment": "sdqfdsfqz",
+      "date": "2022-07-12T22:00:00.000Z",
+      "id": 2
+    },
+    {
+      "name": "dfqsfd",
+      "category": "Legumes",
+      "freshness": "Brand New",
+      "comment": "test de la modal ",
+      "price": 900,
+      "date": "2022-07-12T22:00:00.000Z",
+      "id": 3
+    },
+    {
+      "name": "smartphone",
+      "category": "Divers",
+      "freshness": "Brand New",
+      "comment": "notre tout nouveau telephone ",
+      "price": 250,
+      "date": "2022-07-20T22:00:00.000Z",
+      "id": 4
+    },
+    {
+      "name": "smartwatch",
+      "category": "Divers",
+      "freshness": "Brand New",
+      "comment": "test nouvel article",
+      "price": 500,
+      "date": "2022-10-19T22:00:00.000Z",
+      "id": 5
     }
   ],
   "comments": [
